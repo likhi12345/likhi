@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.main{
+        background: url(aboutbg.jpg) no-repeat;
+        background-size: cover;
+        height: calc(100vh - 0px);
+        width: 100%;
+    
+}
+.content h3{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9px;
+    letter-spacing: 1px;
+    display: inline-block;
+    position:relative;
+    top: 0px;
+    
+}
+.content{
+    width: 500px;
+    height: auto;
+    margin: auto;
+    color: black;
+    position: absolute;
+    font-size: 30px;
+    top: 150px;
+    padding-left: 20px;
+}
